@@ -10,6 +10,7 @@ end
 
 def link
   phr = "It's Dangerous To Go Alone! Take This."
+  puts phr
 end
 
 def all_phrases
